@@ -1,19 +1,13 @@
-    <div class="wp_header">
-        <div class="header">
-            <div class="header_title">
-                <a href="index.php">
+    <div class="wp_header--admin">
+        <div class="header--admin">
+            <div class="header_title header_title--admin">
+                <!-- <a href="index.php">
                     <i class="header_icon--calender fa-solid fa-calendar-check"></i>
-                </a>
-                <h1 class="header_text">Quản lý lịch công tác</h1>
+                </a> -->
+                <h1 class="header_text header_text--admin">Quản trị hệ thống lịch công tác</h1>
 
             </div>
             <div class="header-navbar">
-                <div class="nav">
-                    <a href="" class="nav-item">TRANG CHỦ</a>
-                    <a href="" class="nav-item">NHÂN SỰ</a>
-                    <a href="" class="nav-item">TÀI KHO</a>
-                    <!-- <a href="" class="nav-item">LÃI SUẤT</a> -->
-                </div>
                 <div class="authen">
                     <a href="">
                         <img src="./asset/img/avata.jpg" alt="" class="img-user">
